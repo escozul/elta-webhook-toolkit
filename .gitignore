@@ -1,0 +1,2 @@
+echo "webhook_error.log" >> .gitignore
+echo "webhook_data/" >> .gitignore
